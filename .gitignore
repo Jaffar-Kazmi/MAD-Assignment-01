@@ -1,0 +1,3 @@
+# Ignore IntelliJ / Android Studio project files at root
+.idea/
+*.iml
