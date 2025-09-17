@@ -1,0 +1,24 @@
+# Dart tool directory
+.dart_tool/
+.packages
+
+# Dependency lock files (only ignore pubspec.lock for libraries, not apps)
+pubspec.lock
+
+# Build outputs
+build/
+out/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
